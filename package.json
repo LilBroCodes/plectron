@@ -1,0 +1,17 @@
+{
+  "name": "platinum-launcher",
+  "version": "3.0",
+  "description": "All-in-one launcher for the Platinum GDPS",
+  "main": "main.js",
+  "repository": "https://github.com/Platinum-launcher",
+  "author": "LilBroCodes <lilbrocodes@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "electron": "^34.0.0"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "type": "module"
+}
